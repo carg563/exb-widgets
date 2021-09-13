@@ -1,0 +1,1 @@
+docker-compose -f docker-compose-exb-1.2.yml up

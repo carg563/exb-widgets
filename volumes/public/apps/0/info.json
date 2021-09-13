@@ -1,0 +1,24 @@
+{
+  "created": 1631338593505,
+  "description": "",
+  "id": "0",
+  "modified": 1631408726504,
+  "owner": "portaladmin",
+  "tags": [],
+  "thumbnail": null,
+  "title": "Test Application",
+  "type": "Web Experience",
+  "snippet": "",
+  "typeKeywords": [
+    "EXB Experience",
+    "Ready To Use",
+    "JavaScript",
+    "status: Published",
+    "version:1.5.0"
+  ],
+  "portalUrl": "https://localmaps.demos.eaglegis.co.nz/portal",
+  "username": "portaladmin",
+  "name": "Test Application",
+  "isLocalApp": true,
+  "url": null
+}
