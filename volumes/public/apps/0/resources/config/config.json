@@ -201,7 +201,32 @@
     },
     "layout_4": {
       "type": "FIXED",
-      "label": "Map FixedLayout"
+      "label": "Map FixedLayout",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "22.6%",
+            "right": "14.9%",
+            "top": "14.9%",
+            "bottom": "17.6%",
+            "width": "62.5%",
+            "height": "67.6%"
+          },
+          "widgetId": "widget_12",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      }
     },
     "layout_5": {
       "type": "FIXED",
@@ -887,6 +912,15 @@
         }
       },
       "id": "widget_11"
+    },
+    "widget_12": {
+      "uri": "widgets/simple/",
+      "version": "1.5.0",
+      "label": "simple 1",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_12"
     }
   },
   "exbVersion": "1.5.0",
@@ -907,7 +941,7 @@
       "home": []
     }
   ],
-  "timestamp": 1631365524713,
+  "timestamp": 1631808061574,
   "header": {
     "layout": {
       "LARGE": "layout_15"

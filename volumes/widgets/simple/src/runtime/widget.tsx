@@ -13,7 +13,7 @@ export default class Widget extends React.PureComponent<AllWidgetProps<IMConfig>
     return (
       <div className="widget-demo jimu-widget m-2">
         <p>Simple Widget</p>
-        <p>exampleConfigProperty: {this.props.config.exampleConfigProperty}</p>
+        <p>exampleConfigProperty test test test: {this.props.config.exampleConfigProperty}</p>
       </div>
     );
   }
