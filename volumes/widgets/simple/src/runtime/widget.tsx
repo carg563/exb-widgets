@@ -12,8 +12,8 @@ export default class Widget extends React.PureComponent<AllWidgetProps<IMConfig>
   render() {
     return (
       <div className="widget-demo jimu-widget m-2">
-        <p>Simple Widget</p>
-        <p>exampleConfigProperty test test test: {this.props.config.exampleConfigProperty}</p>
+        <p>Simple Widge Temporary</p>
+        <p>exampleConfigProperty test {this.props.config.exampleConfigProperty}</p>
       </div>
     );
   }

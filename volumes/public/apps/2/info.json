@@ -1,9 +1,9 @@
 {
-  "created": 1636590330976,
+  "created": 1642101928272,
   "description": "",
-  "id": "0",
-  "modified": 1636590444919,
-  "owner": "portaladmin",
+  "id": "2",
+  "modified": 1642101944348,
+  "owner": "gsc_localmaps",
   "tags": [],
   "thumbnail": null,
   "title": "Untitled experience 1",
@@ -16,8 +16,8 @@
     "status: Draft",
     "version:1.6.0"
   ],
-  "portalUrl": "https://localmaps.demos.eaglegis.co.nz/portal",
-  "username": "portaladmin",
+  "portalUrl": "https://Local-Maps.maps.arcgis.com",
+  "username": "gsc_localmaps",
   "name": "Untitled experience 1",
   "isLocalApp": true
 }

@@ -1,0 +1,24 @@
+{
+  "created": 1636590554643,
+  "description": "",
+  "id": "1",
+  "modified": 1642130447504,
+  "owner": "gsc_localmaps",
+  "tags": [],
+  "thumbnail": null,
+  "title": "TechTrek",
+  "type": "Web Experience",
+  "snippet": "",
+  "typeKeywords": [
+    "EXB Experience",
+    "Ready To Use",
+    "JavaScript",
+    "status: Published",
+    "version:1.6.0"
+  ],
+  "portalUrl": "https://local-maps.maps.arcgis.com",
+  "username": "gsc_localmaps",
+  "name": "TechTrek",
+  "isLocalApp": true,
+  "url": null
+}

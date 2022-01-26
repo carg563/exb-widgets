@@ -2,8 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\volumes",
-    "\\volumes\\public"
+    "\\volumes\\temp",
+    "\\volumes\\widgets",
+    "\\volumes\\widgets\\simple",
+    "\\volumes\\widgets\\speed-limits",
+    "\\volumes\\widgets\\speed-limits\\src\\runtime",
+    "\\volumes\\widgets\\speed-limits\\src\\settings"
   ],
-  "SelectedNode": "\\docker-compose-exb-1.2.yml",
+  "SelectedNode": "\\volumes\\widgets\\speed-limits\\src",
   "PreviewInSolutionExplorer": false
 }

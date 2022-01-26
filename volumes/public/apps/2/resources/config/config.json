@@ -1,0 +1,96 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page 1"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "11.3%",
+            "right": "57.5%",
+            "top": "6.4%",
+            "bottom": "31.1%",
+            "width": "31.3%",
+            "height": "62.5%"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    }
+  },
+  "exbVersion": "1.6.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/speed-limits/",
+      "version": "1.6.0",
+      "label": "speed-limits 1",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_1"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "dataSources": {},
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://Local-Maps.maps.arcgis.com"
+  },
+  "sharedThemeVariables": {
+    "header": {
+      "bg": "#14628b",
+      "color": "#ffffff"
+    },
+    "body": {
+      "bg": "#5f8b00",
+      "color": "#ffffff",
+      "link": "#ffffff"
+    },
+    "button": {
+      "bg": "#14628b",
+      "color": "#ffffff"
+    },
+    "logo": {
+      "small": "https://local-maps.maps.arcgis.com/sharing/rest/content/items/80558af1d0f14ff292ca43781b53e179/data"
+    }
+  },
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "timestamp": 1642055144234
+}

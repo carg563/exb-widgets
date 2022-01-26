@@ -4,5 +4,11 @@
     "clientId": "lg7jmdqXszSgt4wr",
     "supportsOAuth": true,
     "isWebTier": false
+  },
+  {
+    "portalUrl": "https://local-maps.maps.arcgis.com",
+    "clientId": "AlwsTuRFyxLA5Vqr",
+    "supportsOAuth": true,
+    "isWebTier": false
   }
 ]
